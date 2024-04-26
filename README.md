@@ -10,7 +10,7 @@
 ## What is LOST
 Ok, if you are here and try to know what is LOST then you probably know me, am I right.
 So, see what lost is, but before that you must need to know these terms:
-- *Knowledge: * Any information that help you to do something or make you happy.
+- *Knowledge:* Any information that help you to do something or make you happy.
 - *Word:* Any work done by you that uses *knowledge* or make you happy.
 - *Beauty:* Anything that help in doing the work easyly and confortable or make you happy.
 - *__Happiness__:* `Happiness = (Knowlege+Work)*Beauty`
